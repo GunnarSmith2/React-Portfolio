@@ -7,7 +7,13 @@ Now that you’ve completed multiple projects, your task is to create a portfoli
 Just as you did in the module project, you’ll need to deploy this application to GitHub Pages. Follow the same instructions that you did for the project to create a build that you can deploy.
 
 
-![alt text] (![Contact](https://user-images.githubusercontent.com/104172862/191390769-f82db10f-20e0-4a95-a552-e1fe06e7c868.PNG)
+![Home](https://user-images.githubusercontent.com/104172862/191390955-be080be0-4541-4a13-8e54-cc2e1280f105.PNG)
+
+![Portfolio](https://user-images.githubusercontent.com/104172862/191390966-d6026899-263f-4f85-84e7-ec7692aa87d9.PNG)
+
+![Resume](https://user-images.githubusercontent.com/104172862/191390984-4d62d187-9647-47a2-811f-6a4cd0317118.PNG)
+
+(![Contact](https://user-images.githubusercontent.com/104172862/191390769-f82db10f-20e0-4a95-a552-e1fe06e7c868.PNG)
 )
 
 # User Story
