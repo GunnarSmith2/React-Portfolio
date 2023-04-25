@@ -69,6 +69,17 @@ const projects = [
     repo: "https://github.com/GunnarSmith2/Work-Calendar",
     live: "https://gunnarsmith2.github.io/Work-Calendar/",
   },
+  {
+    id: 6,
+    title: "Tesla Website Clone",
+    languages: "React, Styled-Components, Javascript",
+    packages: "react-redux, mui-icons-material",
+    image: "/img/Tesla.png",
+    description:
+      "creating a simple work calendar to save events we have planned for that day.",
+    repo: "https://github.com/GunnarSmith2/TeslaClone",
+    live: "",
+  },
 ];
 
 function Portfolio() {

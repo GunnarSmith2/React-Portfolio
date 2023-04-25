@@ -11,7 +11,7 @@ function Resume() {
           className="button is-primary"
           href={process.env.PUBLIC_URL + "/Gunnar-Smith-Resume.pdf"}
           target="_blank"
-          rel="noreffer"
+          rel="noreferrer"
         >
           <span className="icon">
             <i className="fas fa-download"></i>
